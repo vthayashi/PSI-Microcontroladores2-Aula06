@@ -57,4 +57,4 @@ No repositório do grupo, incluir:
 
 ---
 
-📦 **Repositório:** entregue via GitHub Classroom (um repositório por grupo)
+**Repositório:** entregue via GitHub Classroom (um repositório por grupo) e um PDF do markdown final no Moodle.
