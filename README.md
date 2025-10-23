@@ -1,5 +1,5 @@
 # PSI-Microcontroladores2-Aula06
-Atividade: Resolução de Race Condition com Semáforo
+Atividade: Resolução de Race Condition com Semáforo ou Mutex
 
 ## 🎯 Objetivos da Atividade
 Nesta atividade, os alunos deverão:
@@ -26,9 +26,9 @@ Para cada cenário, descreva **três casos de teste** seguindo o formato abaixo:
 | 3 | ... | ... | ... |
 
 ### **3️⃣ Correção e Reteste**
-- Corrigir o código para **eliminar a race condition**.
+- Corrigir o código para **eliminar a race condition** usando semáforo ou mutex.
 - Reexecutar **os mesmos casos de teste** e registrar:
-  - As mudanças feitas.
+  - As mudanças feitas, justificando sua escolha pelo mutex ou semáforo.
   - O resultado após a correção com evidências (capturas de tela por exemplo).
 
 ### **4️⃣ Avaliação Interna (entre colegas do mesmo grupo)**
@@ -57,4 +57,4 @@ No repositório do grupo, incluir:
 
 ---
 
-**Repositório:** entregue via GitHub Classroom (um repositório por grupo) e um PDF do markdown final no Moodle.
+**Entrega:** repositório entregue via GitHub Classroom (um repositório por grupo) e um PDF do markdown final no Moodle.
